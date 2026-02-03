@@ -192,6 +192,10 @@ D as the least-significant bit.</string>
       <p2 x="240" y="160"/>
     </wire>
     <wire>
+      <p1 x="240" y="160"/>
+      <p2 x="320" y="160"/>
+    </wire>
+    <wire>
       <p1 x="200" y="100"/>
       <p2 x="340" y="100"/>
     </wire>
@@ -212,20 +216,20 @@ D as the least-significant bit.</string>
       <p2 x="320" y="200"/>
     </wire>
     <wire>
-      <p1 x="20" y="280"/>
+      <p1 x="100" y="280"/>
       <p2 x="120" y="280"/>
     </wire>
     <wire>
-      <p1 x="140" y="280"/>
-      <p2 x="320" y="280"/>
+      <p1 x="20" y="280"/>
+      <p2 x="60" y="280"/>
     </wire>
     <wire>
       <p1 x="120" y="280"/>
       <p2 x="140" y="280"/>
     </wire>
     <wire>
-      <p1 x="240" y="140"/>
-      <p2 x="340" y="140"/>
+      <p1 x="140" y="280"/>
+      <p2 x="320" y="280"/>
     </wire>
     <wire>
       <p1 x="240" y="220"/>
@@ -245,7 +249,7 @@ D as the least-significant bit.</string>
     </wire>
     <wire>
       <p1 x="240" y="-20"/>
-      <p2 x="240" y="140"/>
+      <p2 x="240" y="160"/>
     </wire>
     <wire>
       <p1 x="240" y="180"/>
@@ -254,10 +258,6 @@ D as the least-significant bit.</string>
     <wire>
       <p1 x="240" y="200"/>
       <p2 x="240" y="220"/>
-    </wire>
-    <wire>
-      <p1 x="240" y="140"/>
-      <p2 x="240" y="160"/>
     </wire>
     <wire>
       <p1 x="240" y="160"/>
